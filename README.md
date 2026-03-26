@@ -1,6 +1,7 @@
 # 🛡️ Secure-Chat-App: End-to-End Encrypted Messenger
 
 A robust, real-time chat application built with **Python**, **Flask-SocketIO**, and **AES/RSA Hybrid Encryption**. This project demonstrates a "Zero-Knowledge" architecture where the server facilitates communication but cannot read the message content.
+![ScreenRecording2026-03-26114153-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/04a93c72-bfb3-405f-b342-5dfce38439f3)
 
 ---
 
