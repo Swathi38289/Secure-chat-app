@@ -6,9 +6,6 @@ A robust, real-time chat application built with **Python**, **Flask-SocketIO**, 
 ---
 
 ## 📺 Live Demo & Security Audit
-*(Click the image below to view the full technical demonstration)*
-
-[![Project Demo](https://img.shields.io/badge/Demo-Play_Video-blue?style=for-the-badge&logo=youtube)](demo.mp4)
 
 > **Security Proof:** At the end of the video, a database audit reveals that all messages are stored as 256-character hexadecimal strings, satisfying the **Confidentiality** pillar of the CIA Triad.
 
